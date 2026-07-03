@@ -41,3 +41,4 @@ go get -u -t ./...
 go mod tidy
 ```
 sumzbiz
+ci: trigger CI pipeline — minor README update (2026-07-03)
